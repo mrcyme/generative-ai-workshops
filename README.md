@@ -6,7 +6,7 @@
 
 You can use that prompt in chatgpt to generate a pitch for you story : 
 
-    Generate a script for a 1-minute video about DESCRIBE YOUR STORY. The video should be an illustrated story where a narrator describes the action of each scene. Please output a description of the illustration and the narrator text for each scene. The description of the image should be coherent between the scene and always repeat the personage names and description for each illustration description.
+    Generate a script for a 1-minute video about DESCRIBE YOUR STORY. The video should be an illustrated story where a narrator describes the action of each scene. Please output a description of the illustration and the narrator text for each scene. The description of the image should be cohgerent between the scene and always repeat the personage names and description for each illustration description.
 
     exemple of scene : 
     SCENE 1: INTRODUCING COSMOS KICKER
@@ -19,3 +19,17 @@ You can use that prompt in chatgpt to generate a pitch for you story :
     Illustration Description: Cosmos Kicker, the space soccer player, skillfully dribbles a blazing comet ball while soaring through zero gravity. His opponent, Lunar Lancer, races to intercept, leaving a trail of stardust.
 
     narrator: in the Cosmic Challenge, Cosmos Kicker's gravity-defying skills outshine his competition. But Lunar Lancer won't back down without a fight!”
+
+2. Step 2 : Generate a style for you illustrated story
+
+you can use this prompt in chat GPT :
+
+        Can you create a short style prompt for an image generator. It should only describe the style of the image and not the composition. I would like a DESCRIBE THE STYLE YOU WANT style ?
+
+        Example : Photo-realistic digital render capturing a vibrant and sleek futuristic aesthetic.
+
+3. Step 3 : generate each frame with a text to image generator. Append the style prompt to each illustration description.
+4. Step 4 : [optional] You can pass each frame to an app that animate an image
+5. Step 5 : Generate the narrator voice with a text to speech app
+6. Step 6 : [optional] Generate a background music with a text to music app.
+7. Step 7 : Assemble everything in an online video editor (example: clideo)
