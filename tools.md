@@ -49,6 +49,10 @@ Create a music starting from a text promt (and a optinaly a music reference)
 - [Elevenlabs](https://elevenlabs.io/)
 - [Hugging Face's Bark](https://huggingface.co/spaces/suno/bark)
 
+### Text to sound 
+
+- [Next-gpt ](https://df5417e5f202e4d4e9.gradio.live/)
+
 ### Voice cloning
 **Online App**:
 - [Kits AI](https://app.kits.ai/)

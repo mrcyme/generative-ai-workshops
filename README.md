@@ -31,7 +31,7 @@ you can use this prompt in chat GPT :
 3. Step 3 : generate each frame with a text to image generator. Append the style prompt to each illustration description.
 4. Step 4 : [optional] You can pass each frame to an app that animate an image
 5. Step 5 : Generate the narrator voice with a text to speech app
-6. Step 6 : [optional] Generate a background music with a text to music app.
+6. Step 6 : [optional] Generate a background music with a text to music app. You can also generate ambiant sounds
 7. Step 7 : Assemble everything in an online video editor (example: clideo)
 
 ## Track 2 : Create a short video with video to 3D and video to video 
