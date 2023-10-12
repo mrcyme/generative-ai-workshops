@@ -33,3 +33,19 @@ you can use this prompt in chat GPT :
 5. Step 5 : Generate the narrator voice with a text to speech app
 6. Step 6 : [optional] Generate a background music with a text to music app.
 7. Step 7 : Assemble everything in an online video editor (example: clideo)
+
+## Track 2 : Create a short video with video to 3D and video to video 
+
+
+1. step 1: Film a short video
+2. step 2: Generate a 3D model with a video to 3D tool
+3. step 3 : Generate a video by defining a camera path through the 3D model
+4. step 4 :  modify the video with a video to video app.
+
+## Track 3 : Create a music with text to music and voice cloning
+
+1. Step1: Generate a instumental with a text to music app
+2. Step 2: Record yourself singing on the instrumental
+3. Step 3: Choose or train a new voice for the voice cloning.
+4. Step 4: apply voice cloning to your recorded audio.
+5. Step 5: edit the results with a audio editor (such as audacity)
