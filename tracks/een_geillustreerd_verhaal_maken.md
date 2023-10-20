@@ -11,12 +11,12 @@ Je kunt de prompt in [chatgpt] (https://chat.openai.com) gebruiken om een pitch 
 
 2. Stap 2: Genereer een stijl voor je geïllustreerde verhaal.
 
-Je kunt deze prompt gebruiken in [chatgpt] (https://chat.openai.com) :
+Je kunt deze prompt gebruiken in [chatgpt](https://chat.openai.com) :
 
     Kun je een korte stijlvoorspelling maken voor een afbeeldingengenerator. Het moet alleen de stijl van de afbeelding beschrijven en niet de compositie. Ik wil graag een BESCHRIJVING VAN DE STIJL die U WILT ?
     voorbeeld : Render in een levendige anime stijl, met vloeiende verlopen, expressieve ogen en zachte schaduw. Emuleer de nauwgezette details die typerend zijn voor Japanse animatie van hoge kwaliteit, zorg voor strakke lijnen en een balans tussen realisme en stilering.
 
-3. Stap 3: Genereer elk frame met [bing image creator] (https://www.bing.com/create) met de illustratiebeschrijving als prompt. Voeg de stijlprompt toe aan elke illustratiebeschrijving (je moet misschien ook wat details toevoegen aan de prompt om de scène verder te beschrijven om het consistent te houden met het script).
+3. Stap 3: Genereer elk frame met [bing image creator](https://www.bing.com/create) met de illustratiebeschrijving als prompt. Voeg de stijlprompt toe aan elke illustratiebeschrijving (je moet misschien ook wat details toevoegen aan de prompt om de scène verder te beschrijven om het consistent te houden met het script).
 
 4. Stap 4: Geef elk frame door aan [gen-2](https://research.runwayml.com/gen2) op runwayml om de afbeeldingen te animeren.
 
