@@ -29,4 +29,4 @@ you can use this prompt in [chatgpt](https://chat.openai.com) :
 
 6. Step 6 : [optional] Generate a background music with a text to music app. You can also generate ambiant sounds
 
-7. Step 7 : Assemble everything in an [capcut](https://www.capcut.com/) online video editor (example: capcut)
+7. Step 7 : Assemble everything in an [capcut](https://www.capcut.com´) online video editor (example: capcut)
