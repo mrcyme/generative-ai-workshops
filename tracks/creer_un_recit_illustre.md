@@ -16,7 +16,7 @@ vous pouvez utiliser ce prompt dans [chatgpt](https://chat.openai.com) :
     Pouvez-vous créer un court message de style pour un générateur d'images ? Elle ne doit décrire que le style de l'image et non sa composition. J'aimerais un style DESCRIRE LE STYLE QUE VOUS VOULEZ ?
     exemple : Rendu dans un style anime vibrant, avec des dégradés lisses, des yeux expressifs et des ombres douces. Emulez les détails méticuleux typiques de l'animation japonaise de haute qualité, en veillant à la netteté des lignes et à l'équilibre entre réalisme et stylisation.
 
-3. Étape 3 : Générez chaque image avec [bing image creator] 3. Étape 3 : Générez chaque image avec [bing image creator](https://www.bing.com/create) en utilisant la description de l'illustration comme invite. Ajoutez l'invite de style à chaque description d'illustration (il se peut que vous deviez également ajouter quelques détails à l'invite pour décrire plus précisément la scène afin de rester cohérent avec le script).
+3. Étape 3 : Générez chaque image avec [bing image creator](https://www.bing.com/create) en utilisant la description de l'illustration comme invite. Ajoutez l'invite de style à chaque description d'illustration (il se peut que vous deviez également ajouter quelques détails à l'invite pour décrire plus précisément la scène afin de rester cohérent avec le script).
 
 4. Étape 4 : Passez chaque image à [gen-2](https://research.runwayml.com/gen2) sur runwayml pour animer les images.
 
