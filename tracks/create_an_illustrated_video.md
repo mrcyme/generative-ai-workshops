@@ -25,8 +25,8 @@ you can use this prompt in [chatgpt](https://chat.openai.com) :
 
     Can you group all the narrator line into one single paragraph ?
 
-5. Step 5 : Generate the narrator voice with [elevenlabs](https://elevenlabs.io/). Just copy the narrotor paragraph, choose your voice and generate.
+6. Step 6 : Generate the narrator voice with [elevenlabs](https://elevenlabs.io/). Just copy the narrotor paragraph, choose your voice and generate.
 
-6. Step 6 : [optional] Generate a background music with a text to music app. You can also generate ambiant sounds
+7. Step 7 : [optional] Generate a background music with a text to music app. You can also generate ambiant sounds
 
-7. Step 7 : Assemble everything in an [capcut](https://www.capcut.com´) online video editor (example: capcut)
+8. Step 8 : Assemble everything in [capcut](https://www.capcut.com´) online video editor

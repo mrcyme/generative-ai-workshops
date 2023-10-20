@@ -24,8 +24,8 @@ Je kunt deze prompt gebruiken in [chatgpt](https://chat.openai.com) :
 
         Kun je alle vertellerregels groeperen in een enkele paragraaf?
 
-5. Stap 5 : Genereer de stem van de verteller met [elevenlabs](https://elevenlabs.io/). Kopieer gewoon de narrotor paragraaf, kies je stem en genereer.
+6. Stap 6 : Genereer de stem van de verteller met [elevenlabs](https://elevenlabs.io/). Kopieer gewoon de narrotor paragraaf, kies je stem en genereer.
 
-6. Stap 6 : [optioneel] Genereer achtergrondmuziek met een tekst-naar-muziek app. Je kunt ook omgevingsgeluiden genereren.
+7. Stap 7 : [optioneel] Genereer achtergrondmuziek met een tekst-naar-muziek app. Je kunt ook omgevingsgeluiden genereren.
 
-7. Stap 7 : Zet alles in elkaar in een [capcut](https://www.capcut.com) online video editor (voorbeeld: capcut)
+8. Stap 8 : Zet alles in elkaar [capcut](https://www.capcut.com) online video editor 

@@ -24,20 +24,9 @@ vous pouvez utiliser ce prompt dans [chatgpt](https://chat.openai.com) :
 
     Pouvez-vous regrouper toutes les lignes du narrateur en un seul paragraphe ?
 
-5. Etape 5 : Générer la voix du narrateur avec [elevenlabs](https://elevenlabs.io/). Copiez simplement le paragraphe du narrotor, choisissez votre voix et générez.
+6. Etape 6 : Générer la voix du narrateur avec [elevenlabs](https://elevenlabs.io/). Copiez simplement le paragraphe du narrotor, choisissez votre voix et générez.
 
-6. Etape 6 : [optionnel] Générez une musique de fond avec une application de texte en musique. Vous pouvez également générer des sons d'ambiance
+7. Etape 7 : [optionnel] Générez une musique de fond avec une application de texte en musique. Vous pouvez également générer des sons d'ambiance
 
-7. Étape 7 : Assemblez le tout dans un éditeur vidéo en ligne [capcut](https://www.capcut.com') (exemple : capcut).(https://www.bing.com/create) en utilisant la description de l'illustration comme invite. Ajoutez l'invite de style à chaque description d'illustration (il se peut que vous deviez également ajouter quelques détails à l'invite pour décrire plus précisément la scène afin de rester cohérent avec le script).
+8. Étape 8 : Assemblez le tout dans un l'éditeur vidéo en ligne [capcut](https://www.capcut.com')
 
-4. Étape 4 : Passez chaque image à [gen-2](https://research.runwayml.com/gen2) sur runwayml pour animer les images.
-
-5. Etape 5 : Regroupez les lignes du narrateur dans chatgpt en utilisant cette invite : 
-
-    Pouvez-vous regrouper toutes les lignes du narrateur en un seul paragraphe ?
-
-5. Etape 5 : Générer la voix du narrateur avec [elevenlabs](https://elevenlabs.io/). Copiez simplement le paragraphe du narrotor, choisissez votre voix et générez.
-
-6. Etape 6 : [optionnel] Générez une musique de fond avec une application de texte en musique. Vous pouvez également générer des sons d'ambiance
-
-7. Étape 7 : Assemblez le tout dans un éditeur vidéo en ligne [capcut](https://www.capcut.com') (exemple : capcut).
