@@ -22,7 +22,7 @@ vous pouvez utiliser ce prompt dans [chatgpt](https://chat.openai.com) :
 
 5. Etape 5 : Regroupez les lignes du narrateur dans chatgpt en utilisant ce prompt : 
 
-    Pouvez-vous regrouper toutes les lignes du narrateur en un seul paragraphe ?
+        Pouvez-vous regrouper toutes les lignes du narrateur en un seul paragraphe ?
 
 6. Etape 6 : Générer la voix du narrateur avec [elevenlabs](https://elevenlabs.io/). Copiez simplement le paragraphe du narrotor, choisissez votre voix et générez.
 

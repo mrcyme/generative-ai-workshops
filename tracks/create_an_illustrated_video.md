@@ -23,7 +23,7 @@ you can use this prompt in [chatgpt](https://chat.openai.com) :
 
 5. Step 5 : Group the narrator line in chatgpt using that prompt : 
 
-    Can you group all the narrator line into one single paragraph ?
+        Can you group all the narrator line into one single paragraph ?
 
 6. Step 6 : Generate the narrator voice with [elevenlabs](https://elevenlabs.io/). Just copy the narrotor paragraph, choose your voice and generate.
 
