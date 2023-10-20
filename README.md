@@ -6,7 +6,7 @@
 
 You can use that prompt in chatgpt to generate a pitch for you story : 
 
-    Generate a script for a 1-minute video about DESCRIBE YOUR STORY. The video should be an illustrated story where a narrator describes the action of each scene. Please output a description of the illustration and the narrator text for each scene. The description of the image should be cohgerent between the scene and always repeat the personage names and description for each illustration description.
+    Please, Generate a script for a 1-minute video about DESCRIBE YOUR STORY. The video should be an illustrated story where a narrator describes the action of each scene. Please output a description of the illustration and the narrator text for each scene. The description of the image should be cohgerent between the scene and always repeat the personage names and description for each illustration description.
 
     exemple of scene : 
     SCENE 1: INTRODUCING COSMOS KICKER
