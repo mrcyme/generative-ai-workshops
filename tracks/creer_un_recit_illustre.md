@@ -11,7 +11,7 @@ Vous pouvez utiliser le prompt suivant dans [chatgpt](https://chat.openai.com) p
 
 2. Etape 2 : Générer un style pour votre histoire illustrée.
 
-vous pouvez utiliser ce texte dans [chatgpt](https://chat.openai.com) :
+vous pouvez utiliser ce prompt dans [chatgpt](https://chat.openai.com) :
 
     Pouvez-vous créer un court message de style pour un générateur d'images ? Elle ne doit décrire que le style de l'image et non sa composition. J'aimerais un style DESCRIRE LE STYLE QUE VOUS VOULEZ ?
     exemple : Rendu dans un style anime vibrant, avec des dégradés lisses, des yeux expressifs et des ombres douces. Emulez les détails méticuleux typiques de l'animation japonaise de haute qualité, en veillant à la netteté des lignes et à l'équilibre entre réalisme et stylisation.
@@ -20,7 +20,7 @@ vous pouvez utiliser ce texte dans [chatgpt](https://chat.openai.com) :
 
 4. Étape 4 : Passez chaque image à [gen-2](https://research.runwayml.com/gen2) sur runwayml pour animer les images.
 
-5. Etape 5 : Regroupez les lignes du narrateur dans chatgpt en utilisant cette invite : 
+5. Etape 5 : Regroupez les lignes du narrateur dans chatgpt en utilisant ce prompt : 
 
     Pouvez-vous regrouper toutes les lignes du narrateur en un seul paragraphe ?
 
