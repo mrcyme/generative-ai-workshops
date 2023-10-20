@@ -22,7 +22,7 @@ Je kunt deze prompt gebruiken in [chatgpt](https://chat.openai.com) :
 
 5. Stap 5 : Groepeer de verteller lijn in chatgpt met behulp van deze prompt : 
 
-    Kun je alle vertellerregels groeperen in een enkele paragraaf?
+        Kun je alle vertellerregels groeperen in een enkele paragraaf?
 
 5. Stap 5 : Genereer de stem van de verteller met [elevenlabs](https://elevenlabs.io/). Kopieer gewoon de narrotor paragraaf, kies je stem en genereer.
 
